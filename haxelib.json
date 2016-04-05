@@ -1,0 +1,12 @@
+{
+  "name": "Staaxe"
+  "url" : "https://github.com/sebbernery/Staaxe",
+  "license": "BSD",
+  "tags": ["network", "js", "flash"],
+  "description": "Staaxe is a tool to gather information about session game in Haxe games.",
+  "version": "0.1.0",
+  "releasenote": "Initial release, everything is working correctly.",
+  "contributors": ["Sebastien Bernery"],
+  "dependencies": {
+  }
+}
