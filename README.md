@@ -23,7 +23,7 @@ Staaxe.send("ended", "true", true);
 
 Staaxe is a static class.
 
-You can access the api doc here : https://sebbernery.github.io/Staaxe/pages/staaxe/Staaxe.html .
+You can access the api doc here : https://sebbernery.github.io/Staaxe/doc/staaxe/Staaxe.html .
 
 The server will store every message it receive, with some metadata. So you can see how much time a gamer spend on your game, with only an Staaxe.init.
 With some Staaxe.send, you can send messages containing progression of the player.
